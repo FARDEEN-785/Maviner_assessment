@@ -1,0 +1,23 @@
+# venv environment
+venv/
+.venv/
+
+# API key 
+.env
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.vscode/
+
+# files
+*.faiss
+*.pkl
+*.pickle
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
